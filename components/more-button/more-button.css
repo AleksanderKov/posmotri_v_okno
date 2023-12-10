@@ -1,0 +1,8 @@
+.more-button {
+    inline-size: 398px;
+    block-size: 34px;
+}
+
+.more-button:focus-visible {
+    margin: 2px;
+}

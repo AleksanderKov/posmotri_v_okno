@@ -1,0 +1,9 @@
+.content__video-card-title {
+    font-family: 'Oswald', sans-serif;
+    text-transform: uppercase;
+    font-weight: 700;
+    font-size: 30px;
+    line-height: 30px;
+    max-width: 200px;
+    padding-block-end: 6px;
+}

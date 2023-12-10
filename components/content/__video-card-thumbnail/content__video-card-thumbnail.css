@@ -1,0 +1,5 @@
+.content__video-card-thumbnail {
+    min-width: 194px;
+    height: 103px;
+    object-fit: cover;
+}
