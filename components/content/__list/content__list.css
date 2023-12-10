@@ -7,7 +7,3 @@
     justify-content: space-between;
     gap: 30px;
 }
-
-.content__list::-webkit-scrollbar {
-    display: none;
-}
