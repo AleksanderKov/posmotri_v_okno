@@ -1,7 +1,4 @@
 @import url(../fonts/fonts.css);
-@import url(../styles/global.css);
-@import url(../styles/error.css);
-@import url(../styles/preloader.css);
 @import url(../components/button/button.css);
 @import url(../components/content/content.css);
 @import url(../components/content/__accent/content__accent.css);
