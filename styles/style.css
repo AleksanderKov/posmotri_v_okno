@@ -9,9 +9,6 @@ html {
 }
 
 .page {
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
   align-items: center;
   inline-size: 1200px;
   block-size: 100%;
