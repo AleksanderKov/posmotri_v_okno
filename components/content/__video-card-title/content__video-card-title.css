@@ -7,4 +7,6 @@
     max-width: 200px;
     padding-block-end: 6px;
     text-overflow: ellipsis;
+    white-space: nowrap;
+    overflow: hidden;
 }
